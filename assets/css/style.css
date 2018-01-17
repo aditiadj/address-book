@@ -1,0 +1,11 @@
+.ui, .equal, .width, .grid, .field, .form {
+  width: 600px;
+  height: 100%;
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+}
